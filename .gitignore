@@ -1,0 +1,7 @@
+# Python virtual environments or system caches
+__pycache__/
+*.pyc
+.DS_Store
+
+# Ignore massive serialized model files (good practice to keep git repos lightweight)
+saved_models/
